@@ -1,1 +1,3 @@
 import kivy
+
+print('Teregei')
