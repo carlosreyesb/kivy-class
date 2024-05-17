@@ -1,0 +1,6 @@
+
+.obsidian
+exports/*
+!exports/.gitkeep
+
+Excalidraw/*.svg
